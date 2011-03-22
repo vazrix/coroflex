@@ -1,0 +1,17 @@
+class CoroflexController < ApplicationController
+  def home
+  end
+
+  def company
+  end
+
+  def services
+  end
+
+  def products
+  end
+
+  def contacts
+  end
+
+end

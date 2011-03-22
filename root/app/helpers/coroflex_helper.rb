@@ -1,0 +1,2 @@
+module CoroflexHelper
+end
